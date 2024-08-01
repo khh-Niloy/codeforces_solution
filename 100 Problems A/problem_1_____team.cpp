@@ -1,3 +1,8 @@
+/*
+Problem 1: Team
+Problem Link: https://codeforces.com/problemset/problem/231/A
+*/
+
 #include <iostream>
 using namespace std;
 int main() {

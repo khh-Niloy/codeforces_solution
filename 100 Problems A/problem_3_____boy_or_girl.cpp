@@ -1,3 +1,8 @@
+/*
+Problem 3: Boy or Girl
+Problem Link: https://codeforces.com/problemset/problem/236/A
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

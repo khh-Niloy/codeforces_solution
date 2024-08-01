@@ -1,3 +1,8 @@
+/*
+Problem 12: Remove Smallest
+Problem Link: https://codeforces.com/problemset/problem/1399/A
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

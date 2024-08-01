@@ -1,3 +1,8 @@
+/*
+Problem 7: Series of Crimes
+Problem Link: https://codeforces.com/problemset/problem/181/A
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 

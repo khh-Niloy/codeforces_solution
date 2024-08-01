@@ -1,3 +1,8 @@
+/*
+Problem 2: Is your horseshoe on the other hoof?
+Problem Link: https://codeforces.com/problemset/problem/228/A
+*/
+
 #include <iostream>
 #include <set>
 using namespace std;
