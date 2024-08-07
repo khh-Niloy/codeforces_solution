@@ -27,3 +27,10 @@ int main() {
     
     return 0;
 }
+
+/* 
+Note:
+C++ provides built-in string comparison operators that handle this process efficiently for you.
+These operators (<, >, <=, >=, ==, and !=) abstract away the need for explicit loops,
+allowing you to compare entire strings with a single statement.
+*/
